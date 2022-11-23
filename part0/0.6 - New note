@@ -1,0 +1,6 @@
+note over browser:
+browser starts executing js-code
+that creates a new note, appends it to notes and renders the list
+end note
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa [{ content: "HTML is easy", date: "2019-05-23" }, ...]
