@@ -1,1 +1,1 @@
-A repo to upgrade all of the excercises from Helsinki University Full Stack Open course.
+A repo to upload all of the excercises from Helsinki University Full Stack Open course.
